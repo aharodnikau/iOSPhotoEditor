@@ -8,7 +8,7 @@ Photo Editor supports drawing, writing text and adding stickers and emojis
 with the ability to scale and rotate objects
                        DESC
  
-  s.homepage         = 'https://github.com/M-Hamed/photo-editor'
+  s.homepage         = 'https://github.com/aharodnikau/iOSPhotoEditor'
   s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
   s.author           = { 'Mohamed Hamed' => 'uladzislau.aharodnikau@jetruby.com' }
   s.source           = { :git => 'https://github.com/aharodnikau/iOSPhotoEditor.git', :tag => s.version.to_s }
